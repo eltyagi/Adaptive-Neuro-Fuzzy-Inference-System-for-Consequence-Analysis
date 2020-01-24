@@ -8,6 +8,7 @@ An ANFIS model for ECA of brick structures is developed and implemented on MATLA
 - RMSE Error: 0.05
 
 *Work is communicated as original research, code and data withheld till paper is released online*
+*Feel free to contact me for complete paper*
 ![Simulink Implementation](https://github.com/Lakshya3190/Adaptive-Neuro-Fuzzy-Inference-System-for-Consequence-Analysis/blob/master/Picture1.png)
 
 
