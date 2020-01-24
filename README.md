@@ -5,6 +5,7 @@ An ANFIS model for ECA of brick structures is developed and implemented on MATLA
 - No. of inputs: 3 
 - Output: Damage to brick structures
 - Data: UN SaferGuard
+- RMSE Error: 0.05
 
 *Work is communicated as original research, code and data withheld till paper is released online*
 ![Simulink Implementation](https://github.com/Lakshya3190/Adaptive-Neuro-Fuzzy-Inference-System-for-Consequence-Analysis/blob/master/Picture1.png)
